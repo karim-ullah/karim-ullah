@@ -35,7 +35,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** who loves building fast, scalable, and user-friendly web applications using the **MERN stack** and **Next.js**. I enjoy turning ideas into clean, working products — from designing intuitive frontends to architecting robust backend systems. Always learning, always building.
+I'm a **Full Stack Developer**. I build web apps using React, Next.js,TypeScript, Node.js, and MongoDB.I enjoy turning ideas into clean, working products — from designing intuitive frontends to architecting robust backend systems. Always learning, always building.
 
 <br/>
 
