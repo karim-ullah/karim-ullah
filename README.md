@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20%2B%20Next.js&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Your+Full+Name;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Karim+Ullah;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
 
 </div>
 
